@@ -62,8 +62,8 @@ if(isset($_POST['add_to_cart'])){
 <section class="home">
 
    <div class="content">
-      <h3>Welcome to The Book Spot</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
+      <h3>Welcome to The Medi Spot</h3>
+      <p>Your one-stop shop for trusted medical products and everyday health essentials. Quality care made simple.</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -74,12 +74,12 @@ if(isset($_POST['add_to_cart'])){
    <div class="flex">
 
       <div class="image">
-         <img src="images/about-img.jpg" alt="">
+         <img src="https://media.istockphoto.com/id/1402604850/photo/the-word-about-us-on-wooden-cubes-business-communication-and-information.jpg?s=612x612&w=0&k=20&c=Oc2HZUPVJRXFsjTwKVgWY_ddWrKeQUG0KCyKUGef-ig=" alt="">
       </div>
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>At The Medi Spot, we’re dedicated to providing reliable healthcare products and wellness support you can trust. Our mission is to make quality health solutions accessible, affordable, and easy to find — because your well-being matters.</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -127,7 +127,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p>We're here to help! Whether you need product guidance, order support, or general health advice, our friendly team is just a message away. Don’t hesitate to reach out — your peace of mind is our priority.</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 

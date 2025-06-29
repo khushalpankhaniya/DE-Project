@@ -29,7 +29,7 @@ if(isset($message)){
 
    <div class="header-2">
       <div class="flex">
-         <a href="home.php" class="logo">The Book Spot</a>
+         <a href="home.php" class="logo">The MediSpot</a>
 
          <nav class="navbar">
             <a href="home.php">home</a>
